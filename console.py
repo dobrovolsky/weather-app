@@ -1,5 +1,3 @@
-import datetime
-
 from weather import Weather
 
 weather = Weather()
